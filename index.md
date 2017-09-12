@@ -12,6 +12,10 @@ layout: custom
 
     <p class="interval">{{ post.interval }}</p>
     <p class="subject">{{ post.subject }}</p>
+
+    <div class="details">
+        {{ post.long_description }}
+    </div>
 </div>
 
     {% endif %}
