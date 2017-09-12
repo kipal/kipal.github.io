@@ -15,6 +15,9 @@
 }
 
 .marginauto{
-	font-weight: bold;
 	margin: auto;
+}
+
+.fontbold{
+	font-weight: bold;
 }
