@@ -4,7 +4,7 @@ layout: custom
 
 
 # Education
-{% for post in page.posts %}
+{% for post in site.posts %}
     {% if post.category contains 'education' %}
             <div class="section">
             <h2>{{ post.title }}</h2>
@@ -15,7 +15,7 @@ layout: custom
     {% endif %}
 {% endfor %}
 # Work Experiences
-{% for post in page.posts %}
+{% for post in site.posts %}
     {% if post.category contains 'education' %}
             <div class="section">
             <h2>{{ post.title }}</h2>
