@@ -14,7 +14,7 @@ layout: custom
     <p class="right">{{ post.excerpt }}</p>
 
     <div class="details">
-        {{ post.description }}
+        {{ post.content }}
     </div>
 </div>
 
