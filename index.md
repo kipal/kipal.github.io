@@ -6,7 +6,7 @@ layout: custom
 # Education
 {% for post in site.posts %}
     {% if post.category contains 'education' %}
-    {% include section.html %}
+{% include section.html %}
     {% endif %}
 {% endfor %}
 # Work Experiences
