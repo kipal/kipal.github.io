@@ -10,11 +10,13 @@ layout: custom
 <div class="section">
     <h2>{{ post.title }}</h2>
 
-    <p class="left">{{ post.interval }}</p>
-    <p class="right">{{ post.excerpt }}</p>
+    <div>
+        <p class="left">{{ post.interval }}</p>
+        <p class="right">{{ post.excerpt }}</p>
 
-    <div class="details">
-        {{ post.content }}
+        <div class="details">
+            {{ post.content }}
+        </div>
     </div>
 </div>
 
@@ -26,11 +28,13 @@ layout: custom
 <div class="section">
     <h2>{{ post.title }}</h2>
 
-    <p class="left">{{ post.interval }}</p>
-    <p class="right">{{ post.excerpt }}</p>
+    <div>
+        <p class="left">{{ post.interval }}</p>
+        <p class="right">{{ post.excerpt }}</p>
 
-    <div class="details">
-        {{ post.long_description }}
+        <div class="details">
+            {{ post.content }}
+        </div>
     </div>
 </div>
     {% endif %}
