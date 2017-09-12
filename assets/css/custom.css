@@ -13,3 +13,8 @@
 .icon{
 	width: 24px;
 }
+
+.occupation{
+	font-weight: bold;
+	margin: auto;
+}
