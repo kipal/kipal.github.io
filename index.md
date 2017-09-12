@@ -6,23 +6,25 @@ layout: custom
 # Education
 {% for post in site.posts %}
     {% if post.category contains 'education' %}
-            <div class="section">
+
+        <div class="section">
             <h2>{{ post.title }}</h2>
 
             <p class="interval">{{ post.interval }}</p>
             <p class="subject">{{ post.subject }}</p>
         </div>
+
     {% endif %}
 {% endfor %}
 # Work Experiences
 {% for post in site.posts %}
     {% if post.category contains 'education' %}
-            <div class="section">
+<div class="section">
             <h2>{{ post.title }}</h2>
 
             <p class="interval">{{ post.interval }}</p>
             <p class="subject">{{ post.subject }}</p>
-        </div>
+</div>
     {% endif %}
 {% endfor %}
 # Professional interest
