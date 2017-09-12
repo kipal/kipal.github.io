@@ -25,3 +25,12 @@
 .right{
 	float: right;
 }
+
+.details{
+	display: none;
+	background-color: #aaa;
+}
+
+.details:first-child{
+	display: block;
+}
