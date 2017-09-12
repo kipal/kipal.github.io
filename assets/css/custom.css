@@ -21,3 +21,7 @@
 .fontbold{
 	font-weight: bold;
 }
+
+.right{
+	float: right;
+}

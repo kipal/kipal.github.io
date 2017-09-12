@@ -12,18 +12,7 @@ layout: custom
 # Work Experiences
 {% for post in site.posts %}
     {% if post.category contains 'job' %}
-<div class="section">
-    <h2>{{ post.title }}</h2>
-
-    <div>
-        <p class="right">{{ post.excerpt }}</p>
-        <p class="left">{{ post.interval }}</p>
-
-        <div class="details">
-            {{ post.content }}
-        </div>
-    </div>
-</div>
+{% include section.html %}
     {% endif %}
 {% endfor %}
 # Professional interest
