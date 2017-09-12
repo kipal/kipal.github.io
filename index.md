@@ -14,6 +14,7 @@ layout: custom
     <p class="subject">{{ post.subject }}</p>
 
     <div class="details">
+        {{ post.excerpt }}
         {{ post.long_description }}
     </div>
 </div>
