@@ -6,20 +6,7 @@ layout: custom
 # Education
 {% for post in site.posts %}
     {% if post.category contains 'education' %}
-
-<div class="section">
-    <h2>{{ post.title }}</h2>
-
-    <div>
-        <p class="left">{{ post.interval }}</p>
-        <p class="right">{{ post.excerpt }}</p>
-
-        <div class="details">
-            {{ post.content }}
-        </div>
-    </div>
-</div>
-
+    {% include section.html %}
     {% endif %}
 {% endfor %}
 # Work Experiences
@@ -29,8 +16,8 @@ layout: custom
     <h2>{{ post.title }}</h2>
 
     <div>
-        <p class="left">{{ post.interval }}</p>
         <p class="right">{{ post.excerpt }}</p>
+        <p class="left">{{ post.interval }}</p>
 
         <div class="details">
             {{ post.content }}
