@@ -32,6 +32,7 @@
 
 .details:first-of-type{
 	display: block;
+	background-color: #aaa;
 }
 
 .active{
