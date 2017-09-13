@@ -46,3 +46,7 @@
 .cursorpointer{
 	cursor: pointer;
 }
+
+.activelink{
+	font-weight: bold;
+}
