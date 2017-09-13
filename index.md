@@ -9,6 +9,7 @@ layout: custom
     {% if post.category contains 'education' %}
         {% assign post.is_active = false %}
         {% if forloop.index == 1 %}
+            forloop 1
             {% assign post.is_active = true  %}
         {% endif %}
 {% include section.html %}
