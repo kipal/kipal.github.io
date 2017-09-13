@@ -3,18 +3,18 @@ email: kipal42@gmail.com
 linkedin_profile: "https://www.linkedin.com/in/nándor-kiss-722aa26a/"
 sections:
   -
-    link:
-    name: About me
+    link: /
+    name: "About me"
   -
-    link: education
+    link: /education
     name: Education
   -
-    link: work
+    link: /work
     name: "Work Experiences"
   -
-    link: professional
+    link: /professional
     name: "Professional Interests"
   -
-    link: personal
+    link: /personal
     name: "Personal Interests"
 theme: jekyll-theme-minimal
