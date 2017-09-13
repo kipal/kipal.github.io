@@ -10,8 +10,8 @@ sections:
     name: "Work Experiences"
   -
     link: professional
-    name: "Professional Interest"
+    name: "Professional Interests"
   -
     link: personal
-    name: "Personal Interest"
+    name: "Personal Interests"
 theme: jekyll-theme-minimal
