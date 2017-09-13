@@ -31,8 +31,13 @@
           </a>
           <a href="{{ site.linkedin_profile }}">
             <img class="icon" src="{{ '/assets/img/linkedin.png' }}" />
-         </a>
+          </a>
         </p>
+        <div class="center">
+          {% for section in site.sections %}
+	  <p><a class="sectionlink" href="{{ section.link }}">{{ section.name }}</a></p>
+	  {% endfor %}
+        </div>
       </header>
       <section>
 
@@ -40,8 +45,8 @@
 
       </section>
       <footer>
-        <p class="marginauto"><small>Hosted on GitHub Pages</small></p>
-        <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p class="center marginauto"><small>Hosted on GitHub Pages</small></p>
+        <p class="center"><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
