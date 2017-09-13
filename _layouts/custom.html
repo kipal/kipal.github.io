@@ -33,6 +33,11 @@
             <img class="icon" src="{{ '/assets/img/linkedin.png' }}" />
           </a>
         </p>
+        <div class="center">
+          {% for section in site.sections %}
+	  <p><a class="sectionlink" href="{{ section.link }}">{{ section.name }}</a></p>
+	  {% endfor %}
+        </div>
       </header>
       <section>
 
