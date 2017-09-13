@@ -4,10 +4,12 @@ layout: custom
 
 
 # Education
+{% assign has_active = false %}
 {% for post in site.posts %}
     {% if post.category contains 'education' %}
+        {% assign post.is_active = false %}
         {% if forloop.index == 1 %}
-            {% post.is_active = true  %}
+            {% assign post.is_active = true  %}
         {% endif %}
 {% include section.html %}
     {% endif %}
