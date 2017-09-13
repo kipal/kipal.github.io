@@ -6,7 +6,7 @@
             <p class="right">{{ post.excerpt }}</p>
             <p class="left">{{ post.interval }}</p>
 
-	    <div class="details {% if post.is_active %}active{%   %}{% endif %}">
+	    <div class="details {% if post.is_active == true %} active {% endif %}">
                 {{ post.content }}
             </div>
         </div>
