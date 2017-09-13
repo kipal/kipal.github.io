@@ -40,7 +40,7 @@
         </div>
       </header>
       <section>
-      <h1>{{ page.url | replace: '/', '' }}</h1>
+      <h1>{{ page.url | replace: '/', '' | replace: '.html', '' }}</h1>
       {{ content }}
 
       </section>
