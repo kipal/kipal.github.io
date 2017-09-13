@@ -40,7 +40,13 @@
         </div>
       </header>
       <section>
-      <h1>{{ page.url | replace: '/', '' | replace: '.html', '' }}</h1>
+      {% assign url = +page.url | replace: '/', '' | replace: '.html', '' %}
+      {% for section in site.sections %}
+          {% if section.link == url %}
+	  <h1>{{ section.name }}</h1>
+          {% endif %}
+      {% endfor %}
+
       {{ content }}
 
       </section>
