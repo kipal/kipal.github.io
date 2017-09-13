@@ -40,7 +40,7 @@
             {% if section.link == url %}
               {% assign active_class = "activelink" %}
             {% endif %}
-            <p class="marginauto"><a class="sectionlink {{ assign_class}}" href="{{ section.link }}">{{ section.name }}</a></p>
+	    <p class="marginauto"><a class="sectionlink {{ active_class }}" href="{{ section.link }}">{{ section.name }}</a></p>
 	  {% endfor %}
         </div>
       </header>
