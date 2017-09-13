@@ -3,11 +3,16 @@
 }
 
 .custom_header{
-	width: 140px;
+	width: auto;
+}
+
+.textcenter{
+	text-align: center;
 }
 
 .center{
-	text-align: center;
+	width: 50%;
+	margin: 0 auto;
 }
 
 .icon{

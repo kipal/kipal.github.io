@@ -17,19 +17,21 @@
   <body>
     <div class="wrapper">
       <header class="custom_header">
-	<img class="me" src="{{ '/assets/img/me.jpg' }}" />
-        <p class="center marginauto fontbold">Software Developer</p>
-        <p class="center">Budapest, Hungary</p>
-        <p class="view center">
-			<a href="mailto:{{ site.email }}">
-                        <img class="icon" src="{{ '/assets/img/email.png' }}" />
-                </a>
-                <a href="{{ site.github.owner_url }}">
-                        <img class="icon" src="{{ '/assets/img/github.png' }}" />
-                </a>
-                <a href="{{ site.linkedin_profile }}">
-                        <img class="icon" src="{{ '/assets/img/linkedin.png' }}" />
-                </a>
+        <div class="center">
+          <img class="me" src="{{ '/assets/img/me.jpg' }}" />
+          <p class="textcenter marginauto fontbold">Software Developer</p>
+          <p class="textcenter">Budapest, Hungary</p>
+        </div>
+        <p class="view textcenter">
+          <a href="mailto:{{ site.email }}">
+            <img class="icon" src="{{ '/assets/img/email.png' }}" />
+          </a>
+          <a href="{{ site.github.owner_url }}">
+            <img class="icon" src="{{ '/assets/img/github.png' }}" />
+          </a>
+          <a href="{{ site.linkedin_profile }}">
+            <img class="icon" src="{{ '/assets/img/linkedin.png' }}" />
+         </a>
         </p>
       </header>
       <section>
