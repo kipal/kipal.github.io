@@ -1,5 +1,7 @@
 (function($){
     $(document).ready(function(){
-      $(".interval").hide();
-      $(".subject").hide();
+        $(".headline").click(function(){
+            $(this).parent().find(".details").toggle();
+        });
+    });
 }($));
