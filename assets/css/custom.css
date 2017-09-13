@@ -26,11 +26,14 @@
 	float: right;
 }
 
-.details{
+.details > :first-child{
 	display: none;
-	background-color: #aaa;
 }
 
 .details:first-child{
 	display: block;
+}
+
+.active{
+	background-color: #aaa;
 }
