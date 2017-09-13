@@ -26,11 +26,11 @@
 	float: right;
 }
 
-.details > :first-child{
+.details{
 	display: none;
 }
 
-.details:first-child{
+.details:first-of-type{
 	display: block;
 }
 
