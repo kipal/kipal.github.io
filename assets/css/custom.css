@@ -37,3 +37,7 @@
 .active{
 	background-color: #eee;
 }
+
+.cursorpointer{
+	cursor: pointer;
+}
