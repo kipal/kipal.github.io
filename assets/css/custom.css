@@ -30,7 +30,11 @@
 	display: none;
 }
 
-.active{
+.active .details{
 	display: block;
+	background-color: #aaa;
+}
+
+.active{
 	background-color: #ccc;
 }
