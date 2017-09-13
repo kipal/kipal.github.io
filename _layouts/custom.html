@@ -45,11 +45,6 @@
         </div>
       </header>
       <section>
-      {% for section in site.sections %}
-          {% if section.link == url %}
-	  <h1>{{ section.name }}</h1>
-          {% endif %}
-      {% endfor %}
 
       {{ content }}
 
