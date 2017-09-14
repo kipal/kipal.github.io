@@ -1,8 +1,9 @@
 (function($){
     $(document).ready(function(){
         $(".headline").click(function(){
-            $(this).toggleClass("active");
-            $(this).parent().find(".details").slideToggle("slow");
+            var parentDOM = $(this).parent();
+            parentDOM.toggleClass("active");
+            parentDOM.find(".details").slideToggle("slow");
         });
     });
 }($));
