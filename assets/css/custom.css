@@ -50,3 +50,7 @@
 .activelink{
 	font-weight: bold;
 }
+
+.hover{
+	font-color: #000;
+}
