@@ -8,7 +8,7 @@ I assume that you're here to learn about my professional skills. ( If you want t
 
 Then let me introduce myself: I'm Nándor Kiss from Budapest, Hungary. I was born, raised and educated in this Central European country.
 
-From a really young age I has been fascinated by technology on every level when they are useful. I always wonder how they work and why they work on those ways.
+From a really young age I have been fascinated by technology on every level when they are useful. I always wonder how they work and why they work on those ways.
 I've never missed an opportunity to peek under the roof of any kind of appliances. It became my learning method and I use it gladly to this day.
 If there's something I want to know how it works, then I'm going to find out by disassembling it, part after part.
 It goes without saying that every now and then, it occured that I wasn't able to reassemble them.
