@@ -38,6 +38,7 @@
 
 .active .details{
 	display: block;
+	color: #727272;
 }
 
 .active{
