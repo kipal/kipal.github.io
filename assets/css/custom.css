@@ -51,3 +51,7 @@
 .activelink{
 	font-weight: bold;
 }
+
+.headline:hover{
+	color: #000;
+}
