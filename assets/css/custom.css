@@ -32,9 +32,12 @@
 	float: right;
 }
 
+.textjustify{
+	text-align: justify;
+}
+
 .details{
 	display: none;
-	text-align: justify;
 }
 
 .active .details{
