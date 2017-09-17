@@ -17,4 +17,4 @@ It was separated into microservices but at that time we didn't use containers. W
 The heavy load and high availablity imply many problems in distributed systems that we had to solve. That's what I learnt there.
 
 #SVN #agile #retrospective #codereview #welldistributedsystems #CDN #globallyavailable #PHP
-
+{:.fontbold .textleft}
