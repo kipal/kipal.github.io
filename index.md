@@ -1,7 +1,8 @@
 ---
 layout: custom
 ---
-{:.details} Hello,
+Hello,
+{:.details}
 
 {:.details} I assume that you're here to learn about my professional skills. ( If you want to cut it short then you should check out the menu on the left ;)
 
