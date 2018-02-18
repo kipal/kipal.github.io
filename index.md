@@ -1,28 +1,14 @@
 ---
 layout: custom
 ---
-Hello,
+I assume that you're here to learn about my professional life.  
+I was born in 1991 so understanding digital technologies was a crucial part of my childhood.
+It became some kind of fascination therefore I chose IT studies in my high school years then I chose  Computer Science as a BSc.
 {:.textjustify}
 
-I assume that you're here to learn about my professional skills. ( If you want to cut it short then you should check out the menu on the left ;)
+Beside my studies I worked on many projects. I don't count them in my professional years, although I always got paid and I also had responsibilities there. But these experiences definitely helped me to get my first job very easily.
 {:.textjustify}
 
-Then let me introduce myself: I'm Nándor Kiss from Budapest, Hungary. I was born, raised and educated in this Central European country.
-{:.textjustify}
-
-From a really young age I have been fascinated by useful technology on every level. I always wonder how they work and why they work on those ways.
-I've never missed an opportunity to peek under the roof of any kind of appliances. It became my learning method and I use it gladly to this day.
-If there's something I want to know how it works, then I'm going to find out by disassembling it, part after part.
-It goes without saying that every now and then, it occured that I wasn't able to reassemble them.
-So my parents were really happy when I started to inquiry about softwares where I can fulfill all my deconstructing desires without making a bigger damage in our properties.
-I always make these discoveries as fast as I can because I feel the urge to use them, to make something with them in order to be productive.
-{:.textjustify}
-
-So, that would be the short manual to me: **keep me busy, but not bored**.
-{:.textjustify}
-
-By busy, I mean that I have to be productive by day-by-day development which seems to be useful in a direct way. And by "not bored", I mean that I have to get the freedom to think about and implement the solutions that make the application/development better.
-{:.textjustify}
-
-It seems logical to me. So that's the way I like to take responsibility.
+I've always been focusing on web applications from the perspective of backend engineering. As a consequence, I code in PHP mostly. But I also have a few applications in production written in Go.  
+What I learnt really well in all these years, that what makes an application reliable so I can take responsibility for it. This knowledge gives me confidence with my work on a daily basis.  
 {:.textjustify}
