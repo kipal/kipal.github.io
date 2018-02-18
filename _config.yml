@@ -18,3 +18,5 @@ sections:
     link: /personal
     name: "Personal Interests"
 theme: jekyll-theme-minimal
+plugins:
+    - jekyll-seo-tag
