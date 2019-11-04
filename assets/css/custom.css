@@ -46,7 +46,7 @@
 
 .active .details{
 	display: block;
-	color: #727272;
+	color: #444;
 }
 
 .active{
@@ -63,4 +63,8 @@
 
 .headline:hover{
 	color: #000;
+}
+
+body {
+    color: #444;
 }
