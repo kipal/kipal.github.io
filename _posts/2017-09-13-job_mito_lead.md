@@ -1,6 +1,6 @@
 ---
 category: job
-is_active: true
+is_active: false
 title: Mito
 interval: January 2016 - August 2017
 excerpt: Lead-Backend Developer
