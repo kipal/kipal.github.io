@@ -1,7 +1,7 @@
 ---
 layout: custom
 ---
-
-I like to spend my free time doing social activities. Indie culture is where I find myself comfortable.
-So I often go to underground clubs with my friends to listen to good music. I also like to go to small festivals with family atmosphere.
+In my free time. I try to do something less structured and less rational to feel more like a human being.
+I'm interested in indie culture from bands to movies, so I usually I go to concerts or to the movies with my friends.
+In the summertime, I attend many small festivals where I do the same things mostly.
 {:.textjustify}
