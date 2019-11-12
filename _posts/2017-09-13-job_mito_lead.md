@@ -14,5 +14,5 @@ So we looked for new technologies, frameworks, libraries. I went for containeriz
 It was crucial in our time because many integrated solutions support Docker containers now. Like Gitlab CI that we started to use to run our tests.
 To achieve this, I had to assess what we got there as a current environment and be in persistent collaboration with other departments like operation, management, UX.
 
-#moreresponsibility #ansible #architecture #moredesign #lesscode #retrospective #PHPUnit #docker #gitlabCI #collaboration #monitorandreassess
+#moreresponsibility #ansible #architecture #moredesign #lesscode #retrospective #PHPUnit #TDD #docker #gitlabCI #collaboration #monitorandreassess
 {:.fontbold .textleft}
