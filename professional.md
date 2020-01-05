@@ -13,5 +13,5 @@ I also had the privilege to develop some applications in Go and watch them work 
 
 I'm also interested in many other aspects of software development like software-architecture, agile methods, standardizing solutions, UNIX systems, etc.
 As I mentioned in my job section, I designed and implemented architectures and I learned a lot but I know I could learn more about it with new opportunities and different kinds of problems/circumstances.
-I like to make reliable systems around me to keep up the good quality and to do more with less work. That's how I met and dove into agile methods. In application development, being relatively fast is important but being able to estimate is worth gold. So I always try to be alert to catch flaws in the workflow and plan to fix them with teammates in retrospective meetings.
+I like to use or even make reliable tools around me to increase the quality and to do more with less work. That's how I met and dove into agile methods. In application development, being relatively fast is important but being able to estimate the application regarding it's the future is worth gold. So I always try to be alert to catch flaws in the workflow and the monitored results so we can plan to fix them with teammates in retrospective meetings.
 {:.textjustify}
