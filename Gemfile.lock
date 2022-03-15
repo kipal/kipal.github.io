@@ -275,7 +275,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (>= 3.6.3)
+  jekyll (>= 3.9.0)
 
 BUNDLED WITH
-   2.2.2
+   2.2.24
